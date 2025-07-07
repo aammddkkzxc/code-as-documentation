@@ -1,0 +1,6 @@
+[submodule "readable-code"]
+	path = readable-code
+	url = https://github.com/aammddkkzxc/readable-code.git
+[submodule "practical-testing"]
+	path = practical-testing
+	url = https://github.com/aammddkkzxc/practical-testing.git
